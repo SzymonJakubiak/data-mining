@@ -1,0 +1,16 @@
+if NAME="city" then do;
+ROLE="INPUT";
+LEVEL="NOMINAL";
+ORDER="";
+end;
+if NAME="city_development_index" then do;
+ROLE="INPUT";
+LEVEL="NOMINAL";
+ORDER="";
+end;
+if NAME="experience" then do;
+ROLE="INPUT";
+LEVEL="NOMINAL";
+ORDER="";
+end;
+drop DROP;

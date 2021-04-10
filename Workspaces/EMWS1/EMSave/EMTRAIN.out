@@ -1,0 +1,23 @@
+ 
+                                                                                                                                                                                                                                                                
+ 
+ 
+Podsumowanie zmiennych
+
+           Poziom       Liczba
+Rola       miary      wystąpień
+
+ID        INTERVAL         1   
+INPUT     BINARY           1   
+INPUT     INTERVAL         1   
+INPUT     NOMINAL         10   
+TARGET    BINARY           1   
+ 
+                                                                                                                                                                                                                                                                
+ 
+Właściwości zapisu danych
+
+Biblioteka                                                                                     Obserwacje    Obserwacje     Liczba
+  danych                                    Położenie wyniku                                     razem        zapisane     zmiennych
+
+  HRDATA      D:\SGH\Data mining\dm-zaliczeniowy\biblioteka_z_danymi\dataset_TRAIN.sas7bdat      19158          MAX           14    

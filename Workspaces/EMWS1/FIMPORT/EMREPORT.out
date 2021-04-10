@@ -1,0 +1,14 @@
+ 
+                                                                                                                                                                                                                                                                
+ 
+ 
+Eksportowane atrybuty dla portu TRAIN
+
+           Poziom       Liczba
+Rola       miary      wystąpień
+
+ID        INTERVAL         1   
+INPUT     BINARY           1   
+INPUT     INTERVAL         1   
+INPUT     NOMINAL         10   
+TARGET    BINARY           1   

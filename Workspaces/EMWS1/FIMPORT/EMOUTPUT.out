@@ -1,0 +1,99 @@
+*------------------------------------------------------------*
+Użytkownik:          Szymon
+Data:                10 kwietnia 2021
+Czas:                13:05:27
+*------------------------------------------------------------*
+* Wynik uczenia
+*------------------------------------------------------------*
+ 
+ 
+ 
+ 
+Podsumowanie zmiennych
+ 
+           Poziom       Liczba
+Rola       miary      wystąpień
+ 
+ID        INTERVAL         1
+INPUT     BINARY           1
+INPUT     INTERVAL         1
+INPUT     NOMINAL         10
+TARGET    BINARY           1
+ 
+ 
+ 
+ 
+ 
+Procedura CONTENTS
+ 
+Nazwa zbioru            EMWS1.FIMPORT_DATA                   Obserwacje             19158
+Typ elementu            DATA                                 Zmienne                14
+Mechanizm               V9                                   Indeksy                0
+Utworzono               10.04.2021 13:05:26                  Długość obserwacji     160
+Ostatnio zmodyfikowano  10.04.2021 13:05:26                  Usuniętych obserwacji  0
+Zabezpieczenie                                               Skompresowany          Nie
+Typ zbioru                                                   Posortowany            Nie
+Etykieta
+Reprezentacja danych    WINDOWS_64
+Kodowanie               wlatin2  Central Europe (Windows)
+ 
+ 
+                                 Informacje zależne od mechanizmu/platformy
+ 
+Rozmiar strony zbioru              65536
+Liczba stron zbioru                47
+Pierwsza strona                    1
+Maksymalnie obserwacji na stronie  409
+Obserwacji na pierwszej stronie    392
+Liczba napraw zbioru               0
+ExtendObsCounter                   YES
+Nazwa pliku                        D:\SGH\Data mining\dm-zaliczeniowy\Workspaces\EMWS1\fimport_data.sas7bdat
+Utworzono w dystrybucji            9.0401M6
+Utworzono na platformie            X64_10PRO
+Właściciel                         DESKTOP-DSLQK9F\Szymon
+Rozmiar pliku                      3MB
+Rozmiar pliku (w bajtach)          3145728
+ 
+ 
+                          Alfabetyczna lista zmiennych i atrybutów
+ 
+ #    Zmienna                   Typ     Dł.    Format    Informat    Etykieta
+ 
+ 2    city                      Char      8    $8.       $8.         city
+ 3    city_development_index    Char     19    $19.      $19.        city_development_index
+10    company_size              Char      9    $9.       $9.         company_size
+11    company_type              Char     19    $19.      $19.        company_type
+ 7    education_level           Char     14    $14.      $14.        education_level
+ 6    enrolled_university       Char     16    $16.      $16.        enrolled_university
+ 1    enrollee_id               Num       8    BEST.                 enrollee_id
+ 9    experience                Char      3    $3.       $3.         experience
+ 4    gender                    Char      6    $6.       $6.         gender
+12    last_new_job              Char      5    $5.       $5.         last_new_job
+ 8    major_discipline          Char     15    $15.      $15.        major_discipline
+ 5    relevent_experience       Char     23    $23.      $23.        relevent_experience
+14    target                    Char      3    $3.       $3.         target
+13    training_hours            Num       8    BEST.                 training_hours
+
+
+*------------------------------------------------------------*
+* Wynik scoringu
+*------------------------------------------------------------*
+
+
+*------------------------------------------------------------*
+* Wynik raportu
+*------------------------------------------------------------*
+ 
+ 
+ 
+ 
+Eksportowane atrybuty dla portu TRAIN
+ 
+           Poziom       Liczba
+Rola       miary      wystąpień
+ 
+ID        INTERVAL         1
+INPUT     BINARY           1
+INPUT     INTERVAL         1
+INPUT     NOMINAL         10
+TARGET    BINARY           1
